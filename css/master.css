@@ -121,8 +121,7 @@ height: 120vh;
 .box{
 margin-top: 5%;
 width: 33.33%;
-height:80VH;
-border: 1PX SOLID RED;
+
 float: left;
 }
 .img{
@@ -133,12 +132,25 @@ height: 40%;
 }
 .img_computer {
   margin-left: 20%;
-  width: 60%;
-  height: 60%;
+  width: 62%;
+  height: 40%;
+
 }
 .img_doc {
-  
   margin-left: 20%;
-  width: 47%;
-  height: 45%;
+  width: 50%;
+  height: 40%;
+}
+.color_title{
+text-align: center;
+color: lime;
+
+}
+.box hr {
+width: 20%;
+margin: 5% 0  5% 40%;
+}
+.content p{
+text-align: center;
+color: grey;
 }
